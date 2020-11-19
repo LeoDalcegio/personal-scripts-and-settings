@@ -27,6 +27,9 @@ clear
 echo 'Let`s install the powerlevel10k themes'
 git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
 
+echo 'Let`s install the Fira Code font'
+sudo apt install fonts-firacode
+
 clear
 
 echo 'Let`s install now vsode'
