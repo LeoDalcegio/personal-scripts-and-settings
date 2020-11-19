@@ -4,6 +4,8 @@
     "terminal.integrated.shell.linux": "/bin/zsh",
     "workbench.iconTheme": "material-icon-theme",
     "editor.formatOnSave": true,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": false,
     "files.exclude": {
         "**/.git": true,
         "**/.svn": true,
@@ -46,4 +48,6 @@
         "tsconfig.json": "tune",
         "*.proto": "3d"
     },
+    "workbench.colorTheme": "Visual Studio 2019 Dark",
+    "window.zoomLevel": 0,
 }
