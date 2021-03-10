@@ -2,7 +2,7 @@
     "editor.suggestSelection": "first",
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
     "terminal.integrated.shell.linux": "/bin/zsh",
-    "workbench.iconTheme": "material-icon-theme",
+    "workbench.iconTheme": "vs-nomo-dark",
     "editor.formatOnSave": true,
     "editor.fontFamily": "Fira Code",
     "editor.fontLigatures": false,
@@ -48,10 +48,11 @@
         "tsconfig.json": "tune",
         "*.proto": "3d"
     },
-    "workbench.colorTheme": "Default Dark+",
+    "workbench.colorTheme": "Dracula",
     "window.zoomLevel": 0,
     "editor.wordWrap": "on",
     "[typescript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
+    "editor.tabSize": 2,
 }
